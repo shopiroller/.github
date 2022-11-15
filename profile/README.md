@@ -36,7 +36,7 @@ A headless e-commerce platform that lets you create fast, dynamic, customer-frie
 <div align="center">
 Hello! 👋 
 <br>
-The power of **headless commerce** now comes with Shopiroller. It allows you to experience seamless and easily scalable e-commerce. Shopiroller offers complete e-commerce features to create a unique online store.
+The power of <strong>headless commerce</strong> now comes with Shopiroller. It allows you to experience seamless and easily scalable e-commerce. Shopiroller offers complete e-commerce features to create a unique online store.
 </div>
 
 
